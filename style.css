@@ -29,8 +29,8 @@ h1  {
 
 p   {       
     font-family: var(--font2);
-    font-size: calc(4em + 3.2px);
-    font-size: clamp(12px, 3.5vw, 268px);
+    font-size: clamp(12px, 4.5vw, 268px);
+    text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.329);
     text-align: left;
     padding: 33px;
 }
